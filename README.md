@@ -1,6 +1,6 @@
 # ytm-releases
 
-Последняя сборка: **0.1.42**
+Последняя сборка: **0.1.43**
 
 - APK: https://raw.githubusercontent.com/netkeyok/ytm-releases/main/ytm-latest.apk
-- SHA-256: `77a56e4c754e4fcf33b1867264a836831e5c9d26eb49cc2ca4dc32873f6def30`
+- SHA-256: `8d3d756ce67a226b143006298c7552333c65a66af233e8b059e087362e7c6a8d`
